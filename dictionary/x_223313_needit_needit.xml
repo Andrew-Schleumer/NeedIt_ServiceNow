@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Needit" max_length="40" name="x_223313_needit_needit" type="collection">
+    <element extends="task" label="NeedIt" max_length="40" name="x_223313_needit_needit" type="collection">
         <element label="New Field 1" max_length="40" name="new_field_1" type="integer"/>
         <element default="yeet" label="Test" max_length="40" name="test" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="Activities" max_length="40" name="u_activities" type="string"/>
